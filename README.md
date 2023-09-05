@@ -1,13 +1,13 @@
 <h1 align="center">LoveChessVN ♔</h1>
 <h4 align="center">thư viện ưa thích của thằng liều ඞා</h4>
 
-<center><i>Thật là quá liều! Chỉ có Quang Liêm mới may ra không dính cái trò này!</i></center>
+<i align="center">Thật là quá liều! Chỉ có Quang Liêm mới may ra không dính cái trò này!</i>
 <h5 align="right">Magnus Carlsen</h5>
 
-<center><i>Quả thật là quyết tâm không để rơi vào thế bị động, táo bạo, mạnh dạn, quyết tâm dành chiến thắng trước đối thủ ELO cao hơn mình!</i></center>
+<i align="center">Quả thật là quyết tâm không để rơi vào thế bị động, táo bạo, mạnh dạn, quyết tâm dành chiến thắng trước đối thủ ELO cao hơn mình!</i>
 <h5 align="right">Hans Niemann</h5>
 
-<center><i>Trước sự ngông nghênh của đối thủ, Đen nghiến răng dạy cho Trắng một bài học!</i></center>
+<i align="center">Trước sự ngông nghênh của đối thủ, Đen nghiến răng dạy cho Trắng một bài học!</i>
 <h5 align="right">Đỗ Nam Trung, Dô Binh Điên, Sun Đà Bi Chai, Dúc Cơ Bấc, Biu Gết</h5>
 
 # sử dụng
